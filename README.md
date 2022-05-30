@@ -5,15 +5,15 @@ project description ...
 ## Getting Started
 
 - Run `bundle install` to get the dependencies.
-- Run `ruby ...`
+- Run `rails s`
 
 ## About me
 
-👤 **Soufiane Boursen**
+👤 **Mirouhml**
 
-- GitHub: [@Sboursen](https://github.com/Sboursen)
-- Twitter: [@sboursen_dev](https://twitter.com/sboursen_dev)
-- LinkedIn: [@sboursen](https://linkedin.com/in/sboursen)
+- GitHub: [@mirouhml](https://github.com/mirouhml)
+- LinkedIn: [ammar-hamlaoui](https://www.linkedin.com/in/ammar-hamlaoui-514909189/)
+- Twitter: [@kuronomirou](https://twitter.com/kuronomirou)
 
 ## 🤝 Contributing
 
