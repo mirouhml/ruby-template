@@ -2,9 +2,11 @@
 
 project description ...
 
+
 ## Getting Started
 
 - Run `bundle install` to get the dependencies.
+- Run `rake db:create:all`
 - Run `rails s`
 
 ## About me
